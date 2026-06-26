@@ -6,14 +6,15 @@ A personal repository dedicated to learning Ruby, experimenting with scripts, an
 
 * `.gitignore` - local Git configuration for ignoring system and Ruby environment files
 * `LICENSE` - MIT License terms
-* `README.md` - repsitory documentation (this file)
+* `README.md` - repository documentation (this file)
 
 ## Projects
 
+* `hello_world/` - a classic "Hello, World!" script    
 * `blood_pressure_analyzer/` - a terminal-based blood pressure log and analyzer with weather API integration and ASCII charts (coming soon)
 
-## Environment & Tools (2026-06-26)
+## Environment & Tools
 
-* **host:** macOS
+* **host:** MacBook Air M1, macOS Tahoe
 * **editor:** VIM 9.x
 * **language:** Ruby 4.x
